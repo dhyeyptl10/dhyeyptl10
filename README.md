@@ -11,8 +11,8 @@
 <br/>
 
 <!-- Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-dhamo--dev.netlify.app-a78bfa?style=for-the-badge&logo=netlify&logoColor=white)](https://dhamo-dev.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhyey-patel)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dhyeyptl--portofolio.netlify.app-a78bfa?style=for-the-badge&logo=netlify&logoColor=white)](https://dhyeyptl-portofolio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhyey-patel-803528394)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhyeyptl10)
 [![Email](https://img.shields.io/badge/Email-pateldhamo0079@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pateldhamo0079@gmail.com)
 
@@ -29,6 +29,7 @@
 
 ```javascript
 const dhyey = {
+  portfolio:  "https://dhyeyptl-portofolio.netlify.app",
   location:   "Gujarat, India 🇮🇳",
   education:  "B.Tech CSE — Software Engineering (2025–2029)",
   role:       ["Full-Stack Developer", "UI/UX Engineer", "Prompt Engineer"],
@@ -176,10 +177,10 @@ const dhyey = {
 <a href="mailto:pateldhamo0079@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Send%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/dhyey-patel">
+<a href="https://www.linkedin.com/in/dhyey-patel-803528394">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://dhamo-dev.netlify.app">
+<a href="https://dhyeyptl-portofolio.netlify.app">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-a78bfa?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 <a href="https://github.com/dhyeyptl10">
